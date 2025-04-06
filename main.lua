@@ -575,7 +575,7 @@ end
 
 -- Create Orion Window
 local Window = OrionLib:MakeWindow({
-    Name = "Movement Script",
+    Name = "ware",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "MovementScript"
